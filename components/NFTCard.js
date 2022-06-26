@@ -3,7 +3,7 @@ import React from "react";
 import { useNavigation } from "@react-navigation/native";
 import { SIZES, COLORS, SHADOWS, assets } from "../constants";
 import { CircleButton, RectButton } from "./Button";
-import { NFTTile, SubInfo, EthPrice, EndDate, People } from "./SubInfo";
+import { NFTTitle, SubInfo, EthPrice, EndDate, People } from "./SubInfo";
 
 const NFTCard = ({ data }) => {
   const navigation = useNavigation();
@@ -32,7 +32,7 @@ const NFTCard = ({ data }) => {
       </View>
       <SubInfo />
       <View style={{ padding: SIZES.font, width: "100%" }}>
-        <NFTTile
+        <NFTTitle
           title={data.name}
           subTitle={data.creator}
           titleSize={SIZES.large}

@@ -14,7 +14,6 @@
   </p>
 </div>
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -30,8 +29,8 @@
   </ol>
 </details>
 
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://expo.dev/@hrshainik/nft-ventures?serviceType=classic&distribution=expo-go)
@@ -42,15 +41,15 @@ It's a dummy nft marketplace app.
 
 ### Built With
 
-* [React](https://reactjs.org/)
-* [React Native](https://reactnative.dev/)
-* [Vanilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Expo](https://expo.dev/)
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Vanilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Expo](https://expo.dev/)
 
 <p align="right"><a href="#top">⇧Back To Top</a></p>
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -66,9 +65,8 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right"><a href="#top">⇧Back To Top</a></p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Habibur Rahman - [@portfoilo](https://hrshainik.me) - hrsshainik@gmail.com
@@ -77,7 +75,4 @@ Project Link: [https://github.com/hrshainik/nft-ventures](https://github.com/hrs
 
 <p align="right"><a href="#top">⇧Back To Top</a></p>
 
-[product-screenshot]: assets/product.gif
-
-
-
+[product-screenshot]: assets/images/product.gif
